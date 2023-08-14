@@ -1,0 +1,24 @@
+{
+  "name": "Trust Wallet: Smart Chain",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+  "keywords": [
+  ],
+  "tokens": [
+    {
+        "name": "WMATIC",
+        "address": "0xB758EAC6F533e26974366b32c2FeB277E5e82daB",
+        "symbol": "WMATIC",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/BusinessShopDev/danielbsp/main/matic-logo.png"
+    }
+  ]
+}
+
