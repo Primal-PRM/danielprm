@@ -16,8 +16,8 @@
         "address": "0xB758EAC6F533e26974366b32c2FeB277E5e82daB",
         "symbol": "WMATIC",
         "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://raw.githubusercontent.com/BusinessShopDev/danielbsp/main/matic-logo.png"
+        "chainId": 137,
+        "logoURI": "https://raw.githubusercontent.com/Primal-PRM/danielprm/main/matic-logo.png"
     }
   ]
 }
