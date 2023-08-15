@@ -19,7 +19,7 @@
         "symbol": "WPRM",
         "decimals": 18,
         "chainId": 39656,
-        "logoURI": "https://raw.githubusercontent.com/danielvindax/bridge-token-list/main/assets/credit/0xED157cfe32AA59aFe7b3c5C71538884C9802577e.png"
+        "logoURI": "https://raw.githubusercontent.com/Primal-PRM/danielprm/main/prm-logo.png"
     },
     {
       "name": "Wrapped BNB from PRM",
@@ -35,7 +35,7 @@
       "symbol": "WPRM",
       "decimals": 18,
       "chainId": 39656,
-      "logoURI": "https://raw.githubusercontent.com/danielvindax/bridge-token-list/main/assets/credit/0xED157cfe32AA59aFe7b3c5C71538884C9802577e.png"
+      "logoURI": "https://raw.githubusercontent.com/Primal-PRM/danielprm/main/prm-logo.png"
   }
   ]
 }
