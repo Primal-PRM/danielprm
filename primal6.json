@@ -13,22 +13,6 @@
     "prm"
   ],
   "tokens": [
-    {
-        "name": "Wrapped BNB from BSC",
-        "address": "0xa5551dBA69d8A3753B9c18219cAb4D1B0fd59977",
-        "symbol": "WPRM",
-        "decimals": 18,
-        "chainId": 39656,
-        "logoURI": "https://raw.githubusercontent.com/Primal-PRM/danielprm/main/prm-logo.png"
-    },
-    {
-      "name": "Wrapped BNB from PRM",
-      "address": "0xac6833c567d2f91208cd1f8a3c75053dcd9fc7f4",
-      "symbol": "WBNB",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/danielvindax/bridge-token-list/main/assets/credit/0xED157cfe32AA59aFe7b3c5C71538884C9802577e.png"
-  },
   {
       "name": "Wrapped PRM",
       "address": "0xB758EAC6F533e26974366b32c2FeB277E5e82daB",
